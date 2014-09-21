@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs4">
+    <filter
+       id="filter3033"
+       inkscape:menu-tooltip="Partly opaque water color effect with bleed"
+       inkscape:menu="Textures"
+       inkscape:label="Gouache"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3035"
+         stdDeviation="3"
+         result="result5"
+         in="SourceGraphic" />
+      <feTurbulence
+         id="feTurbulence3037"
+         result="result1"
+         baseFrequency="0.02"
+         type="fractalNoise"
+         seed="0"
+         numOctaves="3" />
+      <feDisplacementMap
+         id="feDisplacementMap3039"
+         in2="result1"
+         result="result3"
+         in="SourceGraphic"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="30" />
+      <feComposite
+         id="feComposite3041"
+         in2="result1"
+         result="result4"
+         in="result3"
+         operator="out" />
+      <feComposite
+         id="feComposite3043"
+         in2="result4"
+         result="result6"
+         operator="arithmetic"
+         k2="1"
+         k1="0.3"
+         k3="0.3" />
+      <feComposite
+         id="feComposite3045"
+         in2="result5"
+         in="result6"
+         operator="over" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3049">
+      <rect
+         style="fill:#445500;fill-opacity:1;stroke:none"
+         id="rect3051"
+         width="140"
+         height="117.14286"
+         x="222.85713"
+         y="369.50504" />
+    </clipPath>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter3907"
+       x="-0.13644905"
+       width="1.2728981"
+       y="-0.15243562"
+       height="1.3048712">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.0155892"
+         id="feGaussianBlur3909" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="135.39427"
+     inkscape:cy="354.5695"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="721"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#445500;fill-opacity:1;stroke:none;filter:url(#filter3033)"
+       id="rect2985"
+       width="194.28572"
+       height="162.85715"
+       x="194.28572"
+       y="346.64789"
+       clip-path="url(#clipPath3049)"
+       transform="translate(-551.42857,14.285714)"
+       inkscape:export-filename="E:\android\LibgdxProjects\BlockUp-android\assets\game\common\pixel.png"
+       inkscape:export-xdpi="0.64285713"
+       inkscape:export-ydpi="0.64285713" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#445500;fill-opacity:1;stroke:none"
+       id="path3053"
+       sodipodi:cx="311.42856"
+       sodipodi:cy="432.36218"
+       sodipodi:rx="34.285713"
+       sodipodi:ry="34.285713"
+       d="m 345.71427,432.36218 a 34.285713,34.285713 0 1 1 -68.57142,0 34.285713,34.285713 0 1 1 68.57142,0 z"
+       inkscape:export-filename="E:\android\Tools\Libgdx\Ball May Cry\BallMayCry-android\assets\game\sd\disc.png"
+       inkscape:export-xdpi="525.00012"
+       inkscape:export-ydpi="525.00012"
+       transform="translate(-74.285714,-180)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3837"
+       width="122.85714"
+       height="105.71429"
+       x="411.42856"
+       y="192.36218" />
+    <rect
+       style="fill:#445500;fill-opacity:1;stroke:#545454;stroke-opacity:1"
+       id="rect3841"
+       width="94.285713"
+       height="82.85714"
+       x="440"
+       y="226.6479"
+       inkscape:export-filename="E:\android\Tools\Libgdx\Ball May Cry\BallMayCry-android\assets\game\bg.png"
+       inkscape:export-xdpi="11.200779"
+       inkscape:export-ydpi="11.200779" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.52800000000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3004"
+       width="60.609154"
+       height="58.588848"
+       x="84.852814"
+       y="13.925367"
+       inkscape:export-xdpi="1.4849241"
+       inkscape:export-ydpi="1.4849241" />
+    <g
+       id="g3775"
+       transform="translate(-84.852813,8.0812203)"
+       inkscape:export-xdpi="36.402523"
+       inkscape:export-ydpi="36.402523"
+       inkscape:export-filename="E:\android\Tools\Libgdx\Ball May Cry\BallMayCry-android\assets\game\hd\ring_victory.png">
+      <path
+         inkscape:export-ydpi="16.801168"
+         inkscape:export-xdpi="16.801168"
+         inkscape:export-filename="E:\android\LibgdxProjects\BlockUp-android\assets\game\ring1.png"
+         inkscape:connector-curvature="0"
+         id="path3059"
+         d="m 400.0134,483.79465 c -71.00804,0 -128.59375,57.55446 -128.59375,128.5625 0,71.00803 57.58571,128.5625 128.59375,128.5625 71.00804,0 128.5625,-57.55447 128.5625,-128.5625 0,-71.00804 -57.55446,-128.5625 -128.5625,-128.5625 z m 0,18.34375 c 60.88052,0 110.21875,49.33823 110.21875,110.21875 0,60.88051 -49.33823,110.25 -110.21875,110.25 -60.88052,0 -110.25,-49.36949 -110.25,-110.25 0,-60.88052 49.36948,-110.21875 110.25,-110.21875 z"
+         style="fill:#008080;fill-opacity:1;stroke:none" />
+      <path
+         style="fill:#008080;fill-opacity:1;stroke:none"
+         d="m 400.01262,490.22278 c -67.45764,0 -122.16406,54.67673 -122.16406,122.13437 0,67.45763 54.70642,122.13438 122.16406,122.13438 67.45764,0 122.13437,-54.67675 122.13437,-122.13438 0,-67.45764 -54.67673,-122.13437 -122.13437,-122.13437 z m 0,17.42656 c 57.83649,0 104.70781,46.87132 104.70781,104.70781 0,57.83648 -46.87132,104.7375 -104.70781,104.7375 -57.8365,0 -104.7375,-46.90102 -104.7375,-104.7375 0,-57.83649 46.901,-104.70781 104.7375,-104.70781 z"
+         id="path3765"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="E:\android\LibgdxProjects\BlockUp-android\assets\game\ring1.png"
+         inkscape:export-xdpi="16.801168"
+         inkscape:export-ydpi="16.801168" />
+    </g>
+    <path
+       style="fill:#4a4a33;fill-opacity:1;stroke:none"
+       d="m 963.70115,295.48481 c -71.00804,0 -128.59375,57.55446 -128.59375,128.5625 0,71.00803 57.58571,128.5625 128.59375,128.5625 71.00805,0 128.56255,-57.55447 128.56255,-128.5625 0,-71.00804 -57.5545,-128.5625 -128.56255,-128.5625 z m 0,18.34375 c 60.88055,0 110.21875,49.33823 110.21875,110.21875 0,60.88051 -49.3382,110.25 -110.21875,110.25 -60.88052,0 -110.25,-49.36949 -110.25,-110.25 0,-60.88052 49.36948,-110.21875 110.25,-110.21875 z"
+       id="path3059-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\android\Tools\Libgdx\Ball May Cry\BallMayCry-android\assets\game\hd\ring.png"
+       inkscape:export-xdpi="37.802624"
+       inkscape:export-ydpi="37.802624" />
+    <g
+       inkscape:export-ydpi="13.4"
+       inkscape:export-xdpi="13.4"
+       transform="translate(-4.04061,-22.223356)"
+       id="g3903">
+      <path
+         style="fill:#9c384f;fill-opacity:1;stroke:none"
+         d="m 1068.757,788.43925 c -71.00813,0 -128.59383,57.55446 -128.59383,128.5625 0,71.00803 57.5857,128.56245 128.59383,128.56245 71.008,0 128.5625,-57.55442 128.5625,-128.56245 0,-71.00804 -57.5545,-128.5625 -128.5625,-128.5625 z m 14.1421,93.09504 c 60.8805,0 -35.2433,-43.5958 -35.2433,17.28473 0,60.88053 67.8396,-63.49628 6.9591,-63.49628 -60.88063,0 -51.6612,243.57476 -51.6612,182.69426 0,-60.88051 19.0649,-136.48271 79.9454,-136.48271 z"
+         id="path3835"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="E:\android\Tools\Libgdx\Ball May Cry\BallMayCry-android\assets\game\ring2.png"
+         inkscape:export-xdpi="16.801168"
+         inkscape:export-ydpi="16.801168"
+         sodipodi:nodetypes="ssssssssss" />
+      <path
+         sodipodi:nodetypes="ssssssssss"
+         inkscape:export-ydpi="16.801168"
+         inkscape:export-xdpi="16.801168"
+         inkscape:export-filename="E:\android\Tools\Libgdx\Ball May Cry\BallMayCry-android\assets\game\ring2.png"
+         inkscape:connector-curvature="0"
+         id="path3059-1-7"
+         d="m 1068.757,788.43924 c -71.00804,0 -128.59375,57.55446 -128.59375,128.5625 0,71.00803 57.58571,128.56246 128.59375,128.56246 71.008,0 128.5625,-57.55443 128.5625,-128.56246 0,-71.00804 -57.5545,-128.5625 -128.5625,-128.5625 z m 0,2.18131 c 60.8805,0 75.8735,162.47532 75.8735,223.35585 0,60.8805 -12.9727,-221.08008 -73.8532,-221.08008 -60.8805,0 -67.8236,286.00118 -67.8236,225.12068 0,-60.88052 4.9228,-227.39645 65.8033,-227.39645 z"
+         style="fill:#41334a;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g3925"
+       inkscape:export-filename="E:\android\Tools\Libgdx\Ball May Cry\BallMayCry-android\assets\game\hd\origin.png"
+       inkscape:export-xdpi="33.283016"
+       inkscape:export-ydpi="33.283016">
+      <rect
+         style="fill:#666666;fill-opacity:1;stroke:none"
+         id="rect3907"
+         width="98.994949"
+         height="8.0812206"
+         x="-685.77277"
+         y="419.37753"
+         transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" />
+      <rect
+         transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)"
+         y="632.23468"
+         x="-472.91562"
+         height="8.0812206"
+         width="98.994949"
+         id="rect3909"
+         style="fill:#666666;fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       sodipodi:nodetypes="ssssssssss"
+       inkscape:export-ydpi="16.801168"
+       inkscape:export-xdpi="16.801168"
+       inkscape:export-filename="E:\android\Tools\Libgdx\Ball May Cry\BallMayCry-android\assets\game\ring2.png"
+       inkscape:connector-curvature="0"
+       id="path3835-1"
+       d="m 1446.5541,416.70311 c -71.0081,0 -128.5938,57.55446 -128.5938,128.5625 0,71.00803 57.5857,128.5625 128.5938,128.5625 71.008,0 128.5625,-57.55447 128.5625,-128.5625 0,-71.00804 -57.5545,-128.5625 -128.5625,-128.5625 z m 14.1421,93.09504 c 60.8805,0 -35.2433,-43.5958 -35.2433,17.28473 0,60.88053 67.8396,-63.49628 6.9591,-63.49628 -60.8806,0 -51.6612,243.5748 -51.6612,182.69431 0,-60.88056 19.0649,-136.48276 79.9454,-136.48276 z"
+       style="fill:#41334a;fill-opacity:1;stroke:none" />
+    <path
+       sodipodi:nodetypes="ssssssssss"
+       inkscape:export-ydpi="16.801168"
+       inkscape:export-xdpi="16.801168"
+       inkscape:export-filename="E:\android\Tools\Libgdx\Ball May Cry\BallMayCry-android\assets\game\ring2.png"
+       inkscape:connector-curvature="0"
+       id="path3835-3"
+       d="m 740.23218,585.91587 c -71.0081,0 -128.5938,57.55446 -128.5938,128.5625 0,71.00803 57.5857,128.56248 128.5938,128.56248 71.008,0 128.5625,-57.55445 128.5625,-128.56248 0,-71.00804 -57.5545,-128.5625 -128.5625,-128.5625 z m 14.1421,93.09504 c 60.8805,0 -35.2433,-43.5958 -35.2433,17.28473 0,60.88053 67.8396,-63.49628 6.9591,-63.49628 -60.8806,0 -51.6612,243.57479 -51.6612,182.69429 0,-60.88054 19.0649,-136.48274 79.9454,-136.48274 z"
+       style="fill:#4b4b33;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:export-ydpi="28.001942"
+       inkscape:export-xdpi="28.001942"
+       inkscape:export-filename="E:\android\Tools\Libgdx\Ball May Cry\BallMayCry-android\assets\game\hd\ball_trace.png"
+       inkscape:connector-curvature="0"
+       id="path3915"
+       d="m 1402.1074,766.21589 c -71.008,0 -128.5937,57.55446 -128.5937,128.5625 0,71.00803 57.5857,128.56251 128.5937,128.56251 71.0081,0 128.5626,-57.55448 128.5626,-128.56251 0,-71.00804 -57.5545,-128.5625 -128.5626,-128.5625 z m 4.0406,4.20161 c 60.8806,0 120.3203,65.50068 120.3203,126.3812 0,60.88051 -61.46,122.3718 -122.3406,122.3718 -62.9008,0 -126.4124,-59.47099 -124.3921,-128.43272 1.7828,-60.85441 65.5319,-120.32028 126.4124,-120.32028 z"
+       style="fill:#666666;fill-opacity:1;stroke:none"
+       sodipodi:nodetypes="ssssssssss" />
+    <g
+       transform="matrix(8,0,0,8,-578.64832,-7045.4453)"
+       id="g3012"
+       inkscape:export-filename="E:\android\Tools\Libgdx\Ball May Cry\BallMayCry-android\assets\game\sd\ball.png"
+       inkscape:export-xdpi="10.87"
+       inkscape:export-ydpi="10.87">
+      <path
+         transform="matrix(2.3327794,0,0,2.3327794,-28.582697,969.21061)"
+         d="m 32.997313,24.798388 c 0,5.53027 -4.483171,10.013441 -10.013442,10.013441 -5.53027,0 -10.013441,-4.483171 -10.013441,-10.013441 0,-5.530271 4.483171,-10.013442 10.013441,-10.013442 5.530271,0 10.013442,4.483171 10.013442,10.013442 z"
+         sodipodi:ry="10.013441"
+         sodipodi:rx="10.013441"
+         sodipodi:cy="24.798388"
+         sodipodi:cx="22.983871"
+         id="path2985"
+         style="fill:#ffffff;fill-opacity:1;stroke:#cccccc"
+         sodipodi:type="arc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2995"
+         d="m 32.265903,1026.933 c 0,3.7374 -3.029718,6.7671 -6.767065,6.7671 -3.737348,0 -6.767067,-3.0297 -6.767067,-6.7671 0,-3.7375 3.029719,-6.767 6.767067,-6.767 3.737347,0 6.767065,3.0295 6.767065,6.767 z"
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3003"
+         d="m 31.92755,1047.2341 c 0,1.1212 -3.124396,2.0301 -6.978536,2.0301 -3.85414,0 -6.978537,-0.9089 -6.978537,-2.0301 0,-1.1212 3.124397,-2.0301 6.978537,-2.0301 3.85414,0 6.978536,0.9089 6.978536,2.0301 z"
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
+      <path
+         transform="matrix(0.18959382,0.96230171,-1.0627776,0.50412295,31.253665,989.39019)"
+         d="m 22.446237,17.439516 c 0,1.985701 -1.730083,3.59543 -3.864248,3.59543 -2.134165,0 -3.864247,-1.609729 -3.864247,-3.59543 0,-1.985701 1.730082,-3.59543 3.864247,-3.59543 2.134165,0 3.864248,1.609729 3.864248,3.59543 z"
+         sodipodi:ry="3.5954301"
+         sodipodi:rx="3.8642473"
+         sodipodi:cy="17.439516"
+         sodipodi:cx="18.581989"
+         id="path3012"
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         d="m 4.8169929,1019.5314 c -1.121227,0 -2.0301157,3.1244 -2.0301157,6.9786 0,3.8542 0.9088887,6.9785 2.0301157,6.9785 1.1212269,0 2.0301154,-3.1243 2.0301154,-6.9785 0,-3.8542 -0.9088885,-6.9786 -2.0301154,-6.9786 z"
+         id="path3022"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3024"
+         d="m 45.25021,1019.8697 c 1.121227,0 2.030116,3.1244 2.030116,6.9785 0,3.8542 -0.908889,6.9787 -2.030116,6.9787 -1.121226,0 -2.030115,-3.1245 -2.030115,-6.9787 0,-3.8541 0.908889,-6.9785 2.030115,-6.9785 z"
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
+      <path
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         d="m 18.139597,1006.8008 c 0,-1.1212 3.124407,-2.0301 6.978594,-2.0301 3.854186,0 6.978593,0.9089 6.978593,2.0301 0,1.1213 -3.124407,2.0302 -6.978593,2.0302 -3.854187,0 -6.978594,-0.9089 -6.978594,-2.0302 z"
+         id="path3026"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         id="path3028"
+         sodipodi:cx="18.581989"
+         sodipodi:cy="17.439516"
+         sodipodi:rx="3.8642473"
+         sodipodi:ry="3.5954301"
+         d="m 22.446237,17.439516 c 0,1.985701 -1.730083,3.59543 -3.864248,3.59543 -2.134165,0 -3.864247,-1.609729 -3.864247,-3.59543 0,-1.985701 1.730082,-3.59543 3.864247,-3.59543 2.134165,0 3.864248,1.609729 3.864248,3.59543 z"
+         transform="matrix(-0.18959382,0.96230171,1.0627776,0.50412295,18.740855,989.30561)" />
+      <path
+         transform="matrix(-0.18959382,-0.96230171,1.0627776,-0.50412295,18.99462,1064.0528)"
+         d="m 22.446237,17.439516 c 0,1.985701 -1.730083,3.59543 -3.864248,3.59543 -2.134165,0 -3.864247,-1.609729 -3.864247,-3.59543 0,-1.985701 1.730082,-3.59543 3.864247,-3.59543 2.134165,0 3.864248,1.609729 3.864248,3.59543 z"
+         sodipodi:ry="3.5954301"
+         sodipodi:rx="3.8642473"
+         sodipodi:cy="17.439516"
+         sodipodi:cx="18.581989"
+         id="path3030"
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         id="path3032"
+         sodipodi:cx="18.581989"
+         sodipodi:cy="17.439516"
+         sodipodi:rx="3.8642473"
+         sodipodi:ry="3.5954301"
+         d="m 22.446237,17.439516 c 0,1.985701 -1.730083,3.59543 -3.864248,3.59543 -2.134165,0 -3.864247,-1.609729 -3.864247,-3.59543 0,-1.985701 1.730082,-3.59543 3.864247,-3.59543 2.134165,0 3.864248,1.609729 3.864248,3.59543 z"
+         transform="matrix(0.18959382,-0.96230171,-1.0627776,-0.50412295,30.915313,1063.7145)" />
+      <path
+         sodipodi:nodetypes="czzzzzscc"
+         inkscape:connector-curvature="0"
+         id="path3846"
+         d="m 46.734718,1034.6703 c 1.182254,-2.7031 1.879686,-14.0378 -0.632564,-13.9614 -2.512252,0.077 -3.15524,8.517 -4.625775,10.9056 -1.470535,2.3886 -5.191109,5.6222 -7.334603,7.0851 -2.143495,1.4629 -4.43948,3.1865 -7.66328,3.7836 -3.2238,0.5971 -11.243967,0.1256 -14.734624,1.1888 -3.4906576,1.0632 4.130075,4.6497 9.492742,5.3257 9.676624,1.2198 13.535287,-1.4349 15.376131,-2.5659 4.759876,-2.7941 7.898174,-6.7749 10.121973,-11.7615 z"
+         style="opacity:0.4;fill:#000000;stroke:none;filter:url(#filter3907)" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot29336"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe Print;-inkscape-font-specification:Segoe Print"><flowRegion
+         id="flowRegion29338"><rect
+           id="rect29340"
+           width="696.05823"
+           height="232.01941"
+           x="-1042.9825"
+           y="617.04956" /></flowRegion><flowPara
+         id="flowPara29342">Play</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe Print;-inkscape-font-specification:Segoe Print"
+       x="-833.06018"
+       y="606.00104"
+       id="text29344"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="E:\android\Tools\Libgdx\Ball May Cry\BallMayCry-android\assets\mainmenu\hd\play.png"
+       inkscape:export-xdpi="72.17775"
+       inkscape:export-ydpi="72.17775"><tspan
+         sodipodi:role="line"
+         id="tspan29346"
+         x="-833.06018"
+         y="606.00104"
+         style="-inkscape-font-specification:Agent Orange;font-family:Agent Orange;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Play</tspan></text>
+  </g>
+</svg>
