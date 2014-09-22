@@ -38,10 +38,10 @@ var g_resources = [
     res.arial_14_fnt,
 
     //bgm
-    res.bgm_mp3,
+    //res.bgm_mp3,
     //effect
-    res.ui_click_mp3,
-    res.restart_mp3,
-    res.victory_mp3,
-    res.bounce_mp3
+    //res.ui_click_mp3,
+    //res.restart_mp3,
+    //res.victory_mp3,
+    //res.bounce_mp3
 ];
