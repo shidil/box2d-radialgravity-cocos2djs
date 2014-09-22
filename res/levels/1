@@ -1,0 +1,16 @@
+{
+	"objects": [{
+		"class" : "prototype",
+		"name" : "hero",
+		"x" : 180,
+		"y" : 220,
+		"angle" : 0
+	},
+	{
+		"class" : "prototype",
+		"name" : "target",
+		"x" : 650,
+		"y" : 280,
+		"angle" : 0
+	}]
+}	
