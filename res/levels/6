@@ -1,0 +1,34 @@
+{
+	"objects": [{
+		"class" : "prototype",
+		"name" : "hero",
+		"x" : 100,
+		"y" : 220,
+		"angle" : 0
+	},
+	{
+		"class" : "prototype",
+		"name" : "target",
+		"x" : 650,
+		"y" : 240,
+		"angle" : 0
+	},
+	{
+		"class" : "prototype",
+		"name" : "box",
+		"x" : 200,
+		"y" : 240,
+		"angle" : 0,
+		"width" : 60,
+		"height" : 60,
+		"rotation" : -0.5
+	},
+	{
+		"class" : "prototype",
+		"name" : "disc",
+		"x" : 400,
+		"y" : 240,
+		"angle" : 0,
+		"radius" : 40
+	}]
+}	

@@ -1,0 +1,25 @@
+{
+	"objects": [{
+		"class" : "prototype",
+		"name" : "hero",
+		"x" : 180,
+		"y" : 200,
+		"angle" : 0
+	},
+	{
+		"class" : "prototype",
+		"name" : "target",
+		"x" : 650,
+		"y" : 200,
+		"angle" : 0
+	},
+		{
+		"class" : "prototype",
+		"name" : "box",
+		"x" : 400,
+		"y" : 200,
+		"angle" : 0,
+		"width" : 200,
+		"height" : 220
+	}]
+}	
